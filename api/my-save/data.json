@@ -1,0 +1,413 @@
+{
+    "updated": "2024-12-20 09:51:00",
+    "deposits": [
+        {
+            "name": "Nest Lokata Witaj",
+            "rate": 7.6,
+            "duration": "6m",
+            "minValue": 1000,
+            "maxValue": 25000,
+            "url": "https://nestbank.pl/indywidualny/oszczednosci/nest-lokata-witaj.html",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "NEST Bank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata na start + do 620 zł",
+            "rate": 7.5,
+            "duration": "3m",
+            "minValue": 1000,
+            "maxValue": 25000,
+            "url": "http://www.mbank.pl/indywidualny/oszczednosci/mlokata-na-wejscie/index.html",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "mBank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata powitalna",
+            "rate": 7.5,
+            "duration": "180d",
+            "minValue": 1000,
+            "maxValue": 100000,
+            "url": "https://kampanie.credit-agricole.pl/konto-dla-ciebie",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "Credit-Agricole",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Mobilna na start",
+            "rate": 7,
+            "duration": "2m",
+            "minValue": 1000,
+            "maxValue": 50000,
+            "url": "https://www.velobank.pl/klienci-indywidualni/oszczednosci/lokata-mobilna.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "VELO Bank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Powitalna",
+            "rate": 7,
+            "duration": "6m",
+            "minValue": 1000,
+            "maxValue": 200000,
+            "url": "https://www.vwfs.pl/klienci-indywidualni/oszczednosci/lokata-powitalna.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "VOLKSVAGEN FINANCIAL SERVICES",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata HoistSpar Szwecja",
+            "rate": 6.7,
+            "duration": "3m",
+            "minValue": 1,
+            "maxValue": 375000,
+            "url": "https://www.raisin.com/pl-pl/lokaty/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Raisin",
+            "bankLogoUrl": ""
+        },        
+        {
+            "name": "Lokata Plus",
+            "rate": 6.5,
+            "duration": "3m",
+            "minValue": 1000,
+            "maxValue": null,
+            "url": "https://www.vwfs.pl/klienci-indywidualni/oszczednosci/lokata-plus.html",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "VOLKSVAGEN FINANCIAL SERVICES",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 6.4,
+            "duration": "3m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 5.8,
+            "duration": "1m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 5.8,
+            "duration": "1m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.7,
+            "duration": "6m",
+            "minValue": 100,
+            "maxValue": 200000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.8,
+            "duration": "3m",
+            "minValue": 100,
+            "maxValue": 1000000,
+            "url": "https://www.raiffeisendigital.com/pl/pl/inwestycje-i-oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "Raiffeisen Digital Bank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.7,
+            "duration": "6m",
+            "minValue": 100,
+            "maxValue": 1000000,
+            "url": "https://www.raiffeisendigital.com/pl/pl/inwestycje-i-oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "Raiffeisen Digital Bank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.7,
+            "duration": "12m",
+            "minValue": 100,
+            "maxValue": 1000000,
+            "url": "https://www.raiffeisendigital.com/pl/pl/inwestycje-i-oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "Raiffeisen Digital Bank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 5.7,
+            "duration": "3m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.7,
+            "duration": "12m",
+            "minValue": 100,
+            "maxValue": 200000,
+            "url": "https://www.raiffeisendigital.com/pl/pl/inwestycje-i-oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata mobilna",
+            "rate": 5,
+            "duration": "100d",
+            "minValue": 1000,
+            "maxValue": 50000,
+            "url": "https://www.aliorbank.pl/klienci-indywidualni/oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Standard",
+            "rate": 5.4,
+            "duration": "3m",
+            "minValue": 2000,
+            "maxValue": 40000,
+            "url": "https://www.toyotabank.pl/lokata-standard",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Standard",
+            "rate": 5.3,
+            "duration": "6m",
+            "minValue": 2000,
+            "maxValue": 40000,
+            "url": "https://www.toyotabank.pl/lokata-standard",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 5.3,
+            "duration": "12m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata standardowa",
+            "rate": 5.25,
+            "duration": "12m",
+            "minValue": 5000,
+            "maxValue": 50000,
+            "url": "https://www.inbankpolska.pl/lokaty/lokata-bankowa/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Facto",
+            "rate": 5.25,
+            "duration": "3m",
+            "minValue": 5000,
+            "maxValue": 12000000,
+            "url": "https://lokatafacto.bff.com/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Facto",
+            "rate": 5.25,
+            "duration": "6m",
+            "minValue": 5000,
+            "maxValue": 12000000,
+            "url": "https://lokatafacto.bff.com/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Lokata FACTO",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Facto",
+            "rate": 5.0,
+            "duration": "9m",
+            "minValue": 5000,
+            "maxValue": 12000000,
+            "url": "https://lokatafacto.bff.com/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Lokata FACTO",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata Facto",
+            "rate": 5.25,
+            "duration": "6m",
+            "minValue": 5000,
+            "maxValue": null,
+            "url": "https://lokatafacto.pl/eLokaty/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Nest Lokata Nowe Środki",
+            "rate": 5.1,
+            "duration": "3m",
+            "minValue": 1000,
+            "maxValue": 1000000,
+            "url": "https://nestbank.pl/nest-lokata-nowe-srodki/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "NEST Bank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata standardowa",
+            "rate": 5.25,
+            "duration": "12m",
+            "minValue": 5000,
+            "maxValue": 50000,
+            "url": "https://inbank.pl/lokaty/lokata-terminowa",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "inbank",
+            "bankLogoUrl": ""
+        },
+        {
+            "name": "Lokata na start",
+            "rate": 5.05,
+            "duration": "3m",
+            "minValue": 1000,
+            "maxValue": 50000,
+            "url": "https://inbank.pl/deposit/lokata-na-start/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "inbank",
+            "bankLogoUrl": ""
+        }
+    ],
+    "savingAccounts": []
+}
