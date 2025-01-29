@@ -1,0 +1,516 @@
+{
+    "updated": "2025-01-10 22:46:00",
+    "offers": [
+        {
+            "name": "Elastyczne Konto Oszczędnościowe",
+            "rate": 7.5,
+            "duration": "3m",
+            "minValue": 0.01,
+            "maxValue": 100000,
+            "url": "https://www.velobank.pl/klienci-indywidualni/oszczednosci/konto-oszczednosciowe.html",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "VELO Bank",
+            "bankLogoUrl": "",
+            "type": "SAVINGS_ACCOUNT"
+        },
+        {
+            "name": "Konto Mega Oszczędnościowe",
+            "rate": 6.5,
+            "duration": "3m",
+            "minValue": 0.01,
+            "maxValue": 200000,
+            "url": "https://www.aliorbank.pl/klienci-indywidualni/oszczednosci/konto-mega-oszczednosciowe.html",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "ALIOR Bank",
+            "bankLogoUrl": "",
+            "type": "SAVINGS_ACCOUNT"
+        },
+        {
+            "name": "Nest Konto Oszczędnościowe",
+            "rate": 7.1,
+            "duration": "3m",
+            "minValue": 0.01,
+            "maxValue": 100000,
+            "url": "https://nestbank.pl/nest-konto-oszczednosciowe/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "NEST Bank",
+            "bankLogoUrl": "",
+            "type": "SAVINGS_ACCOUNT"
+        },
+        
+        {
+            "name": "Otwarte Konto Oszczędnościowe",
+            "rate": 7,
+            "duration": "3m",
+            "minValue": 0.01,
+            "maxValue": 200000,
+            "url": "https://www.ing.pl/indywidualni/inwestycje-i-oszczednosci/konto-oszczednosciowe",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "ING",
+            "bankLogoUrl": "",
+            "type": "SAVINGS_ACCOUNT"
+        },
+        {
+            "name": "Konto Oszczędnościowe Profit",
+            "rate": 6.25,
+            "duration": "3m",
+            "minValue": 0.01,
+            "maxValue": 200000,
+            "url": "https://www.bankmillennium.pl/klienci-indywidualni/produkty-oszczednosciowe/rachunki-oszczednosciowe/konto-oszczednosciowe-profit",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "Millenium Bank",
+            "bankLogoUrl": "",
+            "type": "SAVINGS_ACCOUNT"
+        },
+        {
+            "name": "Nest Lokata Witaj",
+            "rate": 7.6,
+            "duration": "6m",
+            "minValue": 1000,
+            "maxValue": 25000,
+            "url": "https://nestbank.pl/indywidualny/oszczednosci/nest-lokata-witaj.html",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "NEST Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata powitalna",
+            "rate": 8,
+            "duration": "3m",
+            "minValue": 1000,
+            "maxValue": 100000,
+            "url": "https://www.credit-agricole.pl/klienci-indywidualni/oszczednosci/lokata-powitalna",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "Credit-Agricole",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Mobilna na start",
+            "rate": 7,
+            "duration": "2m",
+            "minValue": 1000,
+            "maxValue": 50000,
+            "url": "https://www.velobank.pl/klienci-indywidualni/oszczednosci/lokata-mobilna.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "VELO Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Powitalna",
+            "rate": 7,
+            "duration": "6m",
+            "minValue": 1000,
+            "maxValue": 200000,
+            "url": "https://www.vwfs.pl/klienci-indywidualni/oszczednosci/lokata-powitalna.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "VOLKSVAGEN FINANCIAL SERVICES",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata HoistSpar Szwecja",
+            "rate": 6.7,
+            "duration": "3m",
+            "minValue": 1,
+            "maxValue": 375000,
+            "url": "https://www.raisin.com/pl-pl/lokaty/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Raisin",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },        
+        {
+            "name": "Lokata Plus",
+            "rate": 6.5,
+            "duration": "3m",
+            "minValue": 1000,
+            "maxValue": null,
+            "url": "https://www.vwfs.pl/klienci-indywidualni/oszczednosci/lokata-plus.html",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "VOLKSVAGEN FINANCIAL SERVICES",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 6.4,
+            "duration": "3m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 5.8,
+            "duration": "1m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 5.8,
+            "duration": "1m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.7,
+            "duration": "6m",
+            "minValue": 100,
+            "maxValue": 200000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.8,
+            "duration": "3m",
+            "minValue": 100,
+            "maxValue": 1000000,
+            "url": "https://www.raiffeisendigital.com/pl/pl/inwestycje-i-oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "Raiffeisen Digital Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.7,
+            "duration": "6m",
+            "minValue": 100,
+            "maxValue": 1000000,
+            "url": "https://www.raiffeisendigital.com/pl/pl/inwestycje-i-oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "Raiffeisen Digital Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.7,
+            "duration": "12m",
+            "minValue": 100,
+            "maxValue": 1000000,
+            "url": "https://www.raiffeisendigital.com/pl/pl/inwestycje-i-oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "Raiffeisen Digital Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 5.7,
+            "duration": "3m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata dla ciebie",
+            "rate": 5.7,
+            "duration": "12m",
+            "minValue": 100,
+            "maxValue": 200000,
+            "url": "https://www.raiffeisendigital.com/pl/pl/inwestycje-i-oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata mobilna",
+            "rate": 5,
+            "duration": "100d",
+            "minValue": 1000,
+            "maxValue": 50000,
+            "url": "https://www.aliorbank.pl/klienci-indywidualni/oszczednosci/lokata.html",
+            "tax": 0.19,
+            "opening": [
+                "mobile"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Standard",
+            "rate": 5.4,
+            "duration": "3m",
+            "minValue": 2000,
+            "maxValue": 40000,
+            "url": "https://www.toyotabank.pl/lokata-standard",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Standard",
+            "rate": 5.3,
+            "duration": "6m",
+            "minValue": 2000,
+            "maxValue": 40000,
+            "url": "https://www.toyotabank.pl/lokata-standard",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Plus",
+            "rate": 4.8,
+            "duration": "12m",
+            "minValue": 2000,
+            "maxValue": 100000,
+            "url": "https://www.toyotabank.pl/lokata-plus",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Toyota Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata standardowa",
+            "rate": 5.25,
+            "duration": "12m",
+            "minValue": 5000,
+            "maxValue": 50000,
+            "url": "https://inbank.pl/lokaty/lokata-terminowa",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "inbank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Facto",
+            "rate": 5.25,
+            "duration": "3m",
+            "minValue": 5000,
+            "maxValue": 12000000,
+            "url": "https://lokatafacto.bff.com/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Lokata FACTO",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Facto",
+            "rate": 5.25,
+            "duration": "6m",
+            "minValue": 5000,
+            "maxValue": 12000000,
+            "url": "https://lokatafacto.bff.com/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Lokata FACTO",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata Facto",
+            "rate": 5.0,
+            "duration": "9m",
+            "minValue": 5000,
+            "maxValue": 12000000,
+            "url": "https://lokatafacto.bff.com/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "Lokata FACTO",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Nest Lokata Nowe Środki",
+            "rate": 5.1,
+            "duration": "3m",
+            "minValue": 1000,
+            "maxValue": 1000000,
+            "url": "https://nestbank.pl/nest-lokata-nowe-srodki/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "NEST Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Nest Lokata Nowe Środki",
+            "rate": 5.25,
+            "duration": "6m",
+            "minValue": 1000,
+            "maxValue": 1000000,
+            "url": "https://nestbank.pl/nest-lokata-nowe-srodki/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "NEST Bank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata standardowa",
+            "rate": 5.25,
+            "duration": "12m",
+            "minValue": 5000,
+            "maxValue": 50000,
+            "url": "https://inbank.pl/lokaty/lokata-terminowa",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "bankName": "inbank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        },
+        {
+            "name": "Lokata na start",
+            "rate": 5.05,
+            "duration": "3m",
+            "minValue": 1000,
+            "maxValue": 50000,
+            "url": "https://inbank.pl/deposit/lokata-na-start/",
+            "tax": 0.19,
+            "opening": [
+                "internet"
+            ],
+            "clientType": [
+                "new"
+            ],
+            "bankName": "inbank",
+            "bankLogoUrl": "",
+            "type": "DEPOSIT"
+        }
+    ]
+}
