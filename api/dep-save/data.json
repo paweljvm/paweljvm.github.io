@@ -3,7 +3,7 @@
     "offers": [
         {
             "name": "Elastyczne Konto Oszczędnościowe",
-            "rate": 8,
+            "rate": 7.5,
             "duration": "3m",
             "minValue": 0.01,
             "maxValue": 100000,
@@ -21,10 +21,10 @@
         },
         {
             "name": "Konto Mega Oszczędnościowe",
-            "rate": 8,
+            "rate": 6.5,
             "duration": "3m",
             "minValue": 0.01,
-            "maxValue": 50000,
+            "maxValue": 200000,
             "url": "https://www.aliorbank.pl/klienci-indywidualni/oszczednosci/konto-mega-oszczednosciowe.html",
             "tax": 0.19,
             "opening": [
@@ -55,24 +55,7 @@
             "bankLogoUrl": "",
             "type": "SAVINGS_ACCOUNT"
         },
-        {
-            "name": "Konto Oszczędnościowe Start",
-            "rate": 7,
-            "duration": "3m",
-            "minValue": 0.01,
-            "maxValue": 200000,
-            "url": "https://www.raiffeisendigital.com/pl/pl/konta/konto-oszczednosciowe.html",
-            "tax": 0.19,
-            "opening": [
-                "internet"
-            ],
-            "clientType": [
-                "new"
-            ],
-            "bankName": "Raiffeisen Digital Bank",
-            "bankLogoUrl": "",
-            "type": "SAVINGS_ACCOUNT"
-        },
+        
         {
             "name": "Otwarte Konto Oszczędnościowe",
             "rate": 7,
@@ -124,24 +107,6 @@
                 "new"
             ],
             "bankName": "NEST Bank",
-            "bankLogoUrl": "",
-            "type": "DEPOSIT"
-        },
-        {
-            "name": "Lokata na start + do 620 zł",
-            "rate": 7.5,
-            "duration": "3m",
-            "minValue": 1000,
-            "maxValue": 25000,
-            "url": "http://www.mbank.pl/indywidualny/oszczednosci/mlokata-na-wejscie/index.html",
-            "tax": 0.19,
-            "opening": [
-                "internet"
-            ],
-            "clientType": [
-                "new"
-            ],
-            "bankName": "mBank",
             "bankLogoUrl": "",
             "type": "DEPOSIT"
         },
@@ -405,7 +370,7 @@
         },
         {
             "name": "Lokata Plus",
-            "rate": 5.3,
+            "rate": 4.8,
             "duration": "12m",
             "minValue": 2000,
             "maxValue": 100000,
@@ -424,7 +389,7 @@
             "duration": "12m",
             "minValue": 5000,
             "maxValue": 50000,
-            "url": "https://www.inbankpolska.pl/lokaty/lokata-bankowa/",
+            "url": "https://inbank.pl/lokaty/lokata-terminowa",
             "tax": 0.19,
             "opening": [
                 "internet"
@@ -479,24 +444,27 @@
             "type": "DEPOSIT"
         },
         {
-            "name": "Lokata Facto",
-            "rate": 5.25,
-            "duration": "6m",
-            "minValue": 5000,
-            "maxValue": null,
-            "url": "https://lokatafacto.pl/eLokaty/",
+            "name": "Nest Lokata Nowe Środki",
+            "rate": 5.1,
+            "duration": "3m",
+            "minValue": 1000,
+            "maxValue": 1000000,
+            "url": "https://nestbank.pl/nest-lokata-nowe-srodki/",
             "tax": 0.19,
             "opening": [
                 "internet"
             ],
-            "bankName": "Lokata FACTO",
+            "clientType": [
+                "new"
+            ],
+            "bankName": "NEST Bank",
             "bankLogoUrl": "",
             "type": "DEPOSIT"
         },
         {
             "name": "Nest Lokata Nowe Środki",
-            "rate": 5.1,
-            "duration": "3m",
+            "rate": 5.25,
+            "duration": "6m",
             "minValue": 1000,
             "maxValue": 1000000,
             "url": "https://nestbank.pl/nest-lokata-nowe-srodki/",
