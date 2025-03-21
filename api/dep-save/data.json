@@ -1,5 +1,5 @@
 {
-    "updated": "2025-03-21 22:22:00",
+    "updated": "2025-03-21 22:40:00",
     "offers": [
         {
             "name": "Elastyczne Konto Oszczędnościowe",
@@ -190,7 +190,7 @@
         },
         {
             "name": "Lokata Plus",
-            "rate": 6.4,
+            "rate": 6.1,
             "duration": "3m",
             "minValue": 2000,
             "maxValue": 100000,
@@ -205,8 +205,8 @@
         },
         {
             "name": "Lokata Plus",
-            "rate": 5.8,
-            "duration": "1m",
+            "rate": 6.3,
+            "duration": "6m",
             "minValue": 2000,
             "maxValue": 100000,
             "url": "https://www.toyotabank.pl/lokata-plus",
@@ -224,21 +224,6 @@
             "duration": "1m",
             "minValue": 2000,
             "maxValue": 100000,
-            "url": "https://www.toyotabank.pl/lokata-plus",
-            "tax": 0.19,
-            "opening": [
-                "internet"
-            ],
-            "bankName": "Toyota Bank",
-            "bankLogoUrl": "",
-            "type": "DEPOSIT"
-        },
-        {
-            "name": "Lokata dla ciebie",
-            "rate": 5.7,
-            "duration": "6m",
-            "minValue": 100,
-            "maxValue": 200000,
             "url": "https://www.toyotabank.pl/lokata-plus",
             "tax": 0.19,
             "opening": [
@@ -290,36 +275,6 @@
                 "mobile"
             ],
             "bankName": "Raiffeisen Digital Bank",
-            "bankLogoUrl": "",
-            "type": "DEPOSIT"
-        },
-        {
-            "name": "Lokata Plus",
-            "rate": 5.7,
-            "duration": "3m",
-            "minValue": 2000,
-            "maxValue": 100000,
-            "url": "https://www.toyotabank.pl/lokata-plus",
-            "tax": 0.19,
-            "opening": [
-                "internet"
-            ],
-            "bankName": "Toyota Bank",
-            "bankLogoUrl": "",
-            "type": "DEPOSIT"
-        },
-        {
-            "name": "Lokata dla ciebie",
-            "rate": 5.7,
-            "duration": "12m",
-            "minValue": 100,
-            "maxValue": 200000,
-            "url": "https://www.raiffeisendigital.com/pl/pl/inwestycje-i-oszczednosci/lokata.html",
-            "tax": 0.19,
-            "opening": [
-                "mobile"
-            ],
-            "bankName": "Toyota Bank",
             "bankLogoUrl": "",
             "type": "DEPOSIT"
         },
@@ -343,7 +298,7 @@
             "rate": 5.4,
             "duration": "3m",
             "minValue": 2000,
-            "maxValue": 40000,
+            "maxValue": 400000,
             "url": "https://www.toyotabank.pl/lokata-standard",
             "tax": 0.19,
             "opening": [
@@ -360,21 +315,6 @@
             "minValue": 2000,
             "maxValue": 40000,
             "url": "https://www.toyotabank.pl/lokata-standard",
-            "tax": 0.19,
-            "opening": [
-                "internet"
-            ],
-            "bankName": "Toyota Bank",
-            "bankLogoUrl": "",
-            "type": "DEPOSIT"
-        },
-        {
-            "name": "Lokata Plus",
-            "rate": 4.8,
-            "duration": "12m",
-            "minValue": 2000,
-            "maxValue": 100000,
-            "url": "https://www.toyotabank.pl/lokata-plus",
             "tax": 0.19,
             "opening": [
                 "internet"
